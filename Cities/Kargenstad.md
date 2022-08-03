@@ -1,0 +1,1 @@
+ruled by house Darkstone, Kargenstad is known for its tradition of martial discipline. The city was created by a warlord known as Kargen Darkstone centuries ago. During the demonic invasion that caused the fall of the empire, Kargenstad was the site of an abyssal rift. The city has yet to recover fully from this.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Player Characters/Tabitha \"Tabs\" Denholm.md",
+            "file": "Sessions/Session 1b.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#characters/me",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Characters/Tabitha \"Tabs\" Denholm.md",
+                "file": "Sessions/Session 1b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Characters/Tabitha \"Tabs\" Denholm.md",
+                "file": "Sessions/Session 1b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,25 +117,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Characters/Tabitha \"Tabs\" Denholm.md"
+                "file": "Sessions/Session 1b.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "93a71c97ee0035da",
   "lastOpenFiles": [
+    "Cities/Felwaken.md",
+    "Cities/Edelrogg.md",
+    "Cities/Kargenstad.md",
+    "Cities/Port Enveral.md",
+    "Cities/Rivell.md",
+    "Cities/Visallia.md",
     "Sessions/Session 1b.md",
     "Player Characters/Tabitha \"Tabs\" Denholm.md",
     "Player Characters/Aldon Khoren.md",
-    "Player Characters/Anthil Woolithus.md",
-    "Player Characters/Wyrdhunter Tarot.md",
-    "Sessions/Session 1.md",
-    "Sessions/Session 0.md"
+    "Player Characters/Wyrdhunter Tarot.md"
   ]
 }

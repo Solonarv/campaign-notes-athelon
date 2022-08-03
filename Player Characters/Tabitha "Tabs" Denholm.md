@@ -1,8 +1,11 @@
-#characters/me
+#characters/solonarv
 Age: 21
 femby; she/they
 175 cm tall, 60 kg
+half-elf illusion wizard
 
+### Description
+messy windswept black bob, skin tanned by the outdoors, wiry build of a runner
 
 ### Backstory
 Daughter of a couple of innkeepers in Rivell, a city on the edge of the desert between the Dominion and elderwel.

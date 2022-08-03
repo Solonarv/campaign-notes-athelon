@@ -1,0 +1,1 @@
+ruled by house Enveral, sitting on the coast of the inner sea it's become one of the richest cities of the kingdom thanks to it's naval trade with other cities along the coast. Port Enveral houses the magical school known as Vennard's Institute of the Arcane.

@@ -3,6 +3,8 @@ Session 1 scrapped, start is now:
 > "Before the rule of the Jozvanian empire, the region of Elderwel, which hugs the southern coast of the inner sea, was controlled by 6 noble houses. These houses warred with each other over who was the rightful ruler of the land. After being annexed by the empire, the rulership of Elderwel was given to House Noveran, who continued to rule the land as High Kings and Queens after the empire fell. The current High Queen, Leandra Noveran, is soon to marry and dignitaries from all across the kingdom are travelling to the city of Visallia, seat of House Noveran. People from all walks of life are following them as well, seeking the opportunities such gatherings create. Your character is one of these people."
 > all of you, on your way to Visallia, arrive at the same town on the same day and were planning to stay the night at the inn. but the owner is not letting anyone inside after her daughter went missing and your characters agreed to find her
 
+[[Tabitha "Tabs" Denholm]] and [[Aldon Khoren]] previously met in [[Rivell]] on the way: Aldon stayed at the inn Tabitha's family runs, where she overheard him mention that he was traveling to [[Visallia]]. They went "same hat!" at each other and decided to travel there together, with Aldon trying to take on the role of a protective older brother and Tabitha insisting she can take care of herself.
+
 It's the last month of summer, 25th of Bloom's End.
 gray and slightly overcast, slight breeze, but a warm one
 
@@ -30,15 +32,11 @@ Aldon: has the boyfriend also been missing? She hasn't been paying attention to 
 
 description of Lydia: same red hair, but more beautiful. She keeps it very clean and nice. Tall, taller than Hilda (because of her father). Carries a pendant with her, from her father, one of the last things left from before he died: a crescent moon.
 
-Descriptions
-
-Aldon (28): 6 ft 2, well muscled like an actual working man. Thicc. Intimidating presence, though not on presence. Tan skin, dark brown hair, hazel eyes, hair shortish and looks shorter because swept back. Chain mail with little blue accoutrements, symbols of his goddess Sel?? goddess of purity, redemption, healing waters decorating it, shield and whip at his side.
-
-Anthil (53): 3.5 ft tall little guy, chubby, in baggy clothes. When he stands still a while (often), the clothing on the left side sinks in more than it should: hiding an injury? Cheery-looking, typical halfling
-
-Tabitha (21): messy windswept black bob, skin tanned by the outdoors, wiry build of a runner
-
-Tarot (21): 5'6" / 1.67 m tall, hard to tell if shortish male or tallish female human, build doesn't give much away either. Especially since outfit completely covers them. Metal plate helmet and breastplate, leathers elsewhere. Greenish jacket, bandolier, backpack cover the breastplate too. Androgynous voice, too.
+OOC, we describe our characters:
+ - [[Aldon Khoren]]
+ - [[Anthil Woolithus]]
+ - [[Tabitha "Tabs" Denholm]]
+ - [[Wyrdhunter Tarot]]
 
 We ask Hilda to introduce us to the owner of the mill. She takes us across the village, up to the river, where there is a water mill. Bunch of people working: carrying chunks of wood, handling big logs, and so on.
 She takes us to a middle-aged man, blond, beard. Thick built human, simple clothes, white linen shirt, loose trousers, looking at some ledgers: the owner of the mill, Bradston. She introduces us.

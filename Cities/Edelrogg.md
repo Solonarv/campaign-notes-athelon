@@ -1,0 +1,1 @@
+ruled by house Greyford. Edelrogg lays on the slops of the Frostcrown mountains, the city carved into its walls. Edelrogg is known for its fine smiths and armorers, as well as its forge said to be lit by Vahkren's eternal flames. Because of its closeness to the Frostcrowns, Edelrogg sees a lot of trade with the kingdoms of the Durtaran Dwarves.

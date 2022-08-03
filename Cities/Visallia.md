@@ -1,0 +1,1 @@
+ruled by House Noveran, famed for its massive white walls that managed to keep the Jozvanian Empire from conquering the city. Because of that, the Noverans and the empire brokered a deal where they'd join peacefully if they were given rule of the land.
