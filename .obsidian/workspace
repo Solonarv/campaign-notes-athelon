@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "5c70db88f99d91f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "93a71c97ee0035da",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Player Characters/Tabitha \"Tabs\" Denholm.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "575c1198e7046766",
+    "type": "split",
+    "children": [
+      {
+        "id": "a040fd4cb3c05d54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "619b07783b07edac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6577a572553283e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75cd8f62988c6785",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36173f5ffee64562",
+    "type": "split",
+    "children": [
+      {
+        "id": "411b91914f08fc8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46043456f46eccd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Player Characters/Tabitha \"Tabs\" Denholm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "249194a57abb4569",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Player Characters/Tabitha \"Tabs\" Denholm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77689fe5de798b9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b96ee9d55ae76076",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Player Characters/Tabitha \"Tabs\" Denholm.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "93a71c97ee0035da",
+  "lastOpenFiles": [
+    "Sessions/Session 1b.md",
+    "Player Characters/Tabitha \"Tabs\" Denholm.md",
+    "Player Characters/Aldon Khoren.md",
+    "Player Characters/Anthil Woolithus.md",
+    "Player Characters/Wyrdhunter Tarot.md",
+    "Sessions/Session 1.md",
+    "Sessions/Session 0.md"
+  ]
+}
