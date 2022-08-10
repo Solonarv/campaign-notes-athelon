@@ -70,7 +70,7 @@ Anthil asks, awkwardly: where do teenagers go to be teenagers, around here? Brad
 
 We leave Bradston there. Tarot checks on the window again, and the rest of us come with.
 
-Tarot mirror-reflects himself onto the windowsill: he pulls a little hand mirror out, angles it just so, and then he's just suddenly in two places, after a brief mirage shimmer. From there, he sees a messy room, a half-elven teenager with dark blond hair beneath the sheets, sobbing gently.
+Tarot climbs onto the windowsill. From there, he sees a messy room, a half-elven teenager with dark blond hair beneath the sheets, sobbing gently.
 He comes back down and asks us if he should say something to the kid. Yes, but what?
 At Aldon's suggestion, Tarot mirrors up there again and apprehends Cole.
 He's a skinny young half-elf, with a terrible attempt at a beard (just a few wisps of hair on his chin). Seeing Tarot, he gives a weird quiet scream and throws something at him.
@@ -116,7 +116,7 @@ Aldon refuses, and the bandit reveals his banditness.
  - Aldon raises his shield, disarms the bandit, and glares at him.
  - Anthil runs in, designates the bandit as his prey, and stabs him with his forks.
  - The bandit runs away, pulls out a sling, and fires it at Aldon.
- - Tarot runs in, mirrors himself across the bandit (flanking him), and caves his skull in with the mirror image.
+ - Tarot runs in, and caves the bandit's skull in.
  - Tabitha lays an illusion of warped terrain over the are where more bandits wait, slowing down reinforcements.
  - The first reinforcement laboriously makes his way across the warped terrain and misses Anthil with his sling.
  - The first, dead bandit's dog critically nibbles on Tarot
@@ -124,9 +124,9 @@ Aldon refuses, and the bandit reveals his banditness.
  - The backup dog crosses the fallen log toward our side of the river
  - Aldon does some stuff
  - Anthil stabs the dead bandit's dog dead.
- - Tarot surrounds the second dog with himselves and starts mining it.
+ - Tarot and starts mining the second dog.
  - Tabitha fires a flurry of magic missiles, finishing off that dog and injuring the next bandit.
- - That bandit closes with mirror-Tarot and knocks him down.
+ - That bandit closes with Tarot and knocks him down.
  - The last bandit plinks at Aldon with his sling.
  - Aldon applies lays hands on Tarot, healing him with the power of water. Then he raises his shield and put himself bodily in the bandits' way.
  - Anthil walks in and starts stabbing the front bandit.
@@ -143,6 +143,7 @@ Aldon refuses, and the bandit reveals his banditness.
 
 Aldon channels healing energy into all of us through the water.
 Tarot looks through the camp. He finds 3 gp 25 sp, a vial of (probably) poison, a silvery-looking paste - silversheen, apply to a weapon to make it count a silver for a while -, and a smokestick.
+healing and resting takes us about 40 minutes.
 
 for following the trail, 10 #xp/award 
 
