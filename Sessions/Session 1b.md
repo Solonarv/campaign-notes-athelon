@@ -24,7 +24,7 @@ forest just has normal forest dangers
 daughter's name: Lydia
 Hilda blames Lydia's boyfriend
 we ask: who is this boyfriend?
-younger son of the owner of the mill. always trouble, many pranks. Lydia is infatuated with that knife-ear, and Hilda just knows he's got something to do with this.
+younger son of the owner of the mill, 17 y/o half-elf. always trouble, many pranks. Lydia is infatuated with that knife-ear, and Hilda just knows he's got something to do with this.
 Tarot: any contact with the boyfriend's parents? yes, the owners of the mill. everyone knows them. she can take us there.
 daughter gone for 2 days
 Tabs: where & when was Lydia last seen? closing down the kitchen for the night, done with dinner. She was going to go to her room, to sleep. Then in the morning, her window was open, her bedsheets hanging from it.
@@ -51,7 +51,7 @@ He suggests we come along, it'll be quicker that way. Hilda splits off again. He
 We speculate: what might have happened? Teenage tryst, perhaps they saw something in the woods that they shouldn't, perhaps something else bad happened.
 Aldon asks about Tarot's scribblings: notes on the situation, and wild conjectures.
 
-We now properly introduce ourselve to each other.
+We now properly introduce ourselves to each other.
 
 Aldon Khoren: distinctive western accent, from the Dominion. Traveling with Tabitha.
 
@@ -88,7 +88,7 @@ Tabs keeps a pair of pockets empty just for this purpose. She turns them inside 
 We decide to go to the grove and investigate in the daylight, trying to find tracks. We follow Anthil, and eventually he is confident he can get us there.
 The floor of the forest is covered in pine needles and very thick roots, little ground cover, thick canopy.
 As we travel, Anthil and Tarot notice some strange leaves and dirt on the ground: a sinkhole covered by loose leaves. Anthil removes the cover and sees that it's a 10ft drop; we would've fallen if they hadn't noticed.
-6 XP for defeating this deadly hazard!
+6 #xp/award for defeating this deadly hazard!
 
 We continue and eventually hear some howling noises. Anthil informs us they're not werewolves. We find the wolves eating a deer carcass. They attack us.
 
@@ -99,15 +99,15 @@ We continue and eventually hear some howling noises. Anthil informs us they're n
  - Tabitha throws some rocks around and nicksthe first wolf
  - Tarot runs forward and finds the other wolf's weakness, then bashes its head in with his pick.
  - The first wolf unprones itself and runs away, tail between its legs.
-80 XP
+80 #xp/award
 
 we take 10 minutes to patch up. Aldon lays on hands and refocuses; Tabitha substitutes a cantrip and casts mage armor.
 
 We continute onward and arrive at the grove. It's very quiet, lit by the afternoon sun, bathed in golden light. There are flowers and butterflies around, it's a very pretty place.
 Tabitha's *detect magic* pings nothing.
 Anthil, Tarot, and Aldon look around. Anthil finds small splatters of blood in some bushes, and human footprints, and clawed footprints of a halfling-sized biped.
-He leads us along the trail. The trail splits into two pairs of footprints, Cole and Lydia, and then one ends in more blood splatters. There are drag marks, and another pair of humanlike footprints there.
-Anthil leads us along the trail.
+He leads us along the trail. The trail splits into two pairs of footprints, presumably Cole and Lydia, and then one ends in more blood splatters. There are drag marks, and another pair of humanlike footprints there.
+Anthil leads us along the trail with the drag marks.
 
 The forest opens onto a river, and there are some people - who look like bandits - around, resting. A dog alerts on us - well, on Aldon.
 Aldon greets the probably-bandit (and dog) on guard. The guard demands to know who Aldon is. He introduces himself and says he's looking for a young girl. The guard says "no, now fuck off". Aldon turns to leave, but the guard tells him to stop and demands to take his stuff.
@@ -139,11 +139,11 @@ Aldon refuses, and the bandit reveals his banditness.
  - Tarot uses a scroll of *heal* and scares the back bandit.
  - Tabitha casts magic missile *again*, killing the front bandit with a force dart through the forehead.
  - The last bandit runs away.
-130 XP
+130 #xp/award
 
 Aldon channels healing energy into all of us through the water.
-Tarot looks through the camp. He finds 3 gp 25 sp, a vial of (probably) poison, a silvery-looking paste - silversheen -, and a smokestick.
+Tarot looks through the camp. He finds 3 gp 25 sp, a vial of (probably) poison, a silvery-looking paste - silversheen, apply to a weapon to make it count a silver for a while -, and a smokestick.
 
-for following the trail, 10 XP
+for following the trail, 10 #xp/award 
 
-#xp_total 226 XP
+226 #xp/total
