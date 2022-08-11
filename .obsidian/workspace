@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 1b.md",
+            "file": "Sessions/Session 2.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 1b.md",
+                "file": "Sessions/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 1b.md",
+                "file": "Sessions/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 1b.md"
+                "file": "Sessions/Session 2.md"
               }
             }
           }
@@ -126,19 +126,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "93a71c97ee0035da",
   "lastOpenFiles": [
+    "Deities/velianis.md",
     "Sessions/Session 2.md",
+    "Deities/boinar.md",
+    "Deities/Azol.md",
+    "Deities/Celyria.md",
     "Sessions/Session 1b.md",
     "Sessions/Session 1.md",
     "Cities/Felwaken.md",
     "Cities/Edelrogg.md",
-    "Cities/Kargenstad.md",
-    "Cities/Port Enveral.md",
-    "Cities/Rivell.md",
-    "Cities/Visallia.md",
-    "Player Characters/Tabitha \"Tabs\" Denholm.md"
+    "Cities/Kargenstad.md"
   ]
 }
