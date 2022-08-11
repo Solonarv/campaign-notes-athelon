@@ -120,3 +120,15 @@ We inspect the body on top of the altar. It fits the description of Lydia that w
 We improvise a way to carry Lydia's corpse from wood scraps around here.
 Tarot inspects the altar. There is an opening in the cave ceiling above the altar, letting the night sky show through.
 Both cultists have the three-moons-and-eye symbol scarified over their hearts. The moons are crossed out with a line.
+
+Tabitha suggests that Aldon hand her some of his things so he can carry Lydia's corpse more easily. He gives her his shield and whip for safe-keeping.
+After Aldon and Tarot fail to find out anything useful, Anthil finds that she was killed between 12 and 24 hours ago - before we ever even heard of her existence.
+Aldon heals us up with lay on hands.
+
+We head back toward Asher's Mill.
+
+Plans for next session:
+ - Tell Hilda what happened to her daughter
+ - Get paid some amount (not yet decided by the DM)
+ - Get our night's rest, return on the road to Visallia in the morning - traveling together, since we might as well.
+ - Anthil wants to pay his respects in the local small church.
