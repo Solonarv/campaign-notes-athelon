@@ -1,10 +1,25 @@
-2022-07-06
+no preconceived notions of a big overarching plot
 
-maxx gives us a lore infodump
+"if you guys want to travel to the moon i will see if you can do that"
 
-prefers sandbox-style stuff, rather than linearish adventures
-nature involved
-intrigue & politics
+char creation:
+- available species are in world doc
+- species version: latest non-'24e appearance, flexible racial ASIs
+- extra starting feat 
 
-start will be:
-"In ages past, people told stories of the fearsome warriors and powerful Wavesingers from the Valken Islands, a chain of volcanic islands south of the New Jozvanian Dominion and west of Thelsya. Legends tell of their powerful weapons, made of crystal-light shards, which they used to protect their people. According to the locals, a gift from their sacred defender from the seas. For almost 150 years, most of the islands were unreachable, surrounded by terrible storms and whirlpools that crushed any who dared cross. But around 60 years ago, the storms receded, making journeys to the islands possible again. Now, the Cerulean Dynasty Trading Company seeks to start an expedition to locate the source of this legendary material. All able bodied men and women are invited to try out. Will you follow the thrill of discovery or the promise of wealth?"
+topic NOs:
+- sexual harrassment/abuse (not "on camera", does exist in the setting though)
+- not crazy about bugs (squeamish) - no details
+- vomiting &cetera (squeamish) - no details
+	- also other bodily fluids (except blood, see below)
+- no ultragore
+
+leveling by "the DM decides" milestone
+
+if we try going to the moon things may get worse back on Athelon while we're gone
+
+we will not be evil but probably not goody-two-shoes either
+
+character driven campaign, how do our characters interact
+
+campaign hook changed a bit maybe: help our employer with somethingsomething.
