@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 0.md",
+                "file": "Sessions/Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "Session 1"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/huntress.md",
+                "file": "Characters/Revna Kairi Asbjorn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "huntress"
+              "title": "Revna Kairi Asbjorn"
             }
           }
         ]
@@ -196,7 +196,11 @@
   },
   "active": "93a71c97ee0035da",
   "lastOpenFiles": [
-    "Characters/huntress.md",
+    "Characters/Faeraxinus Alfredson.md",
+    "Characters/Minerva.md",
+    "Characters/Moose Jaw.md",
+    "Sessions/Session 1.md",
+    "Characters/Revna Kairi Asbjorn.md",
     "Sessions/Session 0.md",
     "version 0/Cities/Visallia.md",
     "version 0/Cities/Rivell.md",
@@ -204,9 +208,6 @@
     "version 0/Cities/Kargenstad.md",
     "version 0/Cities/Felwaken.md",
     "version 0/Cities/Edelrogg.md",
-    "Characters/solo.md",
-    "Characters/mouse.md",
-    "Characters/piper.md",
     "Characters",
     "version 0/Sessions/Session 2.md",
     "Sessions",
